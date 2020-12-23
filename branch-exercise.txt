@@ -14,6 +14,11 @@ Part 1
 
 Part 2
 Hello from the New Branch!!
-Fast Forward Merge Successful!
 
+Fast Forward Merge Successful!
+(This was from the master branch) [Imposter!!]
 Hi from the Newest Branch! I'm here to cause trouble.
+
+(This change came from the branch named newest_branch)
+Hi I'm from the newest_branch! I like change.
+
