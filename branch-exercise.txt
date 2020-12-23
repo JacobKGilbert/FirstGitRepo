@@ -14,3 +14,6 @@ Part 1
 
 Part 2
 Hello from the New Branch!!
+Fast Forward Merge Successful!
+
+Hi from the Newest Branch! I'm here to cause trouble.
