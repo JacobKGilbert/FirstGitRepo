@@ -1,0 +1,15 @@
+Branching Exercise
+
+Part 1
+
+1) "Git Branch <Desired Branch Name>" creates a new branch.
+
+2) A fast forward merge is one that is done automatically by Git. A recursive merge requires human input to decide which changes are to be kept due to merge conflicts.
+
+3) "Git Checkout <Existing Branch Name>" allows changing to another branch.
+
+4) "Git Branch -d <Existing Branch Name>" deletes a branch ("-D" is required if desiring to delete branch and all commits that have not been merged or transferred.
+
+5) A merge conflict occurs when two or more similar files on branches being merged have commits that are not clear in their chronological order.
+
+Part 2
