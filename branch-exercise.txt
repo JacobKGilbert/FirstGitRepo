@@ -13,3 +13,4 @@ Part 1
 5) A merge conflict occurs when two or more similar files on branches being merged have commits that are not clear in their chronological order.
 
 Part 2
+Hello from the New Branch!!
